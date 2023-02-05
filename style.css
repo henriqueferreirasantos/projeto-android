@@ -179,7 +179,7 @@ aside {
 aside > ul {
     list-style-position: inside;
     columns: 2;
-    list-style-type: "🗸\00a0\00a0"
+    list-style-type: circle
 
 }
 aside > h3 {
